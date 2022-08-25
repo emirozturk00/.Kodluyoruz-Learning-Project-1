@@ -1,0 +1,51 @@
+Bilmemiz Gereken Klavye Kısayolları
+1) CTRL + P
+CTRL + P kombinasyonunu kullandığınızda açılan menüden projenizdeki dosyaları açabilirsiniz.
+
+vs-ctrlp
+
+2) CTRL + W
+Halihazırda açık olan dosyayı kapatmak için CTRL + W kombinasyonunu kullanabilirsiniz.
+
+3) CTRL + B
+CTRL + B klavye kısayolunu kullanarak kod editörünüz sağ tarafında açık olan menü çubuğunu kapatıp açabilirsiniz.
+
+4) CTRL + SHIFT + P
+CTRL + SHIFT + P klavye kısayolunu kullanarak ayarlara ulaşabilirsiniz.
+
+vs-ctrlshiftp
+
+Bu örneğimizde ilk öncelik tema ayarlarına giriş yaptığımızı ve sonrasında dosya ikonlarını kolayca değiştirebildiğimizi görebiliriz.
+
+5) CTRL + SHIFT + SOL YÖN TUŞU
+Bir ifadenin tamamını seçmek istediğinizde o ifadenin sonuna gelerek CTRL + SHIFT + SOL YÖN TUŞU kombinasyonunu kullanabilirsiniz.
+
+vs-solok
+
+Bu örneğimizde kodluyoruz ifadesinin sonuna gelerek CTRL + SHIFT + SOL YÖN TUŞU kısayolunu kullandığımızda tamamını seçtiğimizi görebiliriz.
+
+6) ALT + YUKARIAŞAĞI YÖN TUŞU
+Bir ifadenin yerini değiştirmek istediğinizde ALT + YUKARIAŞAĞI YÖN TUŞU kombinasyonunu kullanabilirsiniz
+
+vs-altok
+
+Bu örneğimizde kodluyoruz ifadesinin yerini ALT + YUKARIAŞAĞI YÖN TUŞU kısayolunu kullanarak değiştirdiğimizi görebiliriz.
+
+7) ALT + SHIFT
+Seçili olan ifadeyi bir alt satıra da kopyalamak istediğinizde ALT + SHIFT kısayolunu kullanabilirsiniz.
+
+8) CTRL + ENTER
+Satırın neresinde olursanız olun bir alt satıra geçmek istediğinizde CTRL + ENTER kısayolunu kullanabilirsiniz.
+
+9) CTRL + D
+Dosyanızda yer alan aynı ifadeleri seçmek için CTRL + D kısayolunu kullanabilir sonrasında da çoklu imleç özelliğinden yararlanarak aynı ifadeleri tek seferde değiştirebilirsiniz.
+
+vs-ctrld
+
+Bu örneğimizde kodluyoruz ifadelerinin tamamını CTRL + D kombinasyonunu kullanarak seçtiğimizi ve sonrasında hepsi yerine tek seferde kodluyoruz.org ifadesini yazdığımızı görebiliriz.
+
+10) CTRL + SOLSAĞ YÖN TUŞU
+Satırdaki ifadeleri teker teker atlayarak ilerlemek istediğinizde CTRL + SOLSAĞ YÖN TUŞU kısayolunu kullanabilirsiniz.
+
+11) CTRL + X
+Seçili olan ifadeyi kesmek için CTRL + X kısayolunu kullanabilirsiniz.
